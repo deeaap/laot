@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: subtitle: |+
+  <br>
+  <strong> Room 214, National Institute of Molecular Biology and Biotechnology </strong> <br>
+  <strong> University of the Philippines Diliman </strong>
+  <strong> 1101 Quezon City, Philippines </strong>
+  <br><br><br>
 profile:
-  align: right
   image: lablogo-laot.png
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Room 214, NIMBB,</p>
-    <p>UP Diliman,</p>
-    <p>1101 Quezon City, PH</p>
+  more_info: false
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
