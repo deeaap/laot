@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: subtitle: |+
+subtitle: |+
   <br>
   <strong> Room 214, National Institute of Molecular Biology and Biotechnology </strong> <br>
   <strong> University of the Philippines Diliman </strong>
